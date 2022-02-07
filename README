@@ -2,3 +2,4 @@ ANALISE EXPLORATÓRIA DE DADOS EXTRAIDO DA COVIDSTRESS
 PROJETO ACADEMICO REALIZADO DURANTE O ANO LETIVO DE 2021
 
 Para executar a análise exploratória basta abrir o arquivo .ipynb em uma IDLE que rode python.
+Caso não execute, será necessário instalar algumas bibliotecas utilizadas para realizar a analise.
