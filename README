@@ -1,5 +1,30 @@
 ANALISE EXPLORATÓRIA DE DADOS EXTRAIDO DA COVIDSTRESS 
 PROJETO ACADEMICO REALIZADO DURANTE O ANO LETIVO DE 2021
+TEMA:
+Impacto psicológico e comportamental ocasionado pela covid na população global
+utilizando dados demográficos e escalas como as medida UCLA e SLON.
+
+A SOLUÇÃO DE VOCÊS COLETA ALGUM TIPO DE DADO QUE PODE SER USADO POSTERIORMENTE?
+Sim, a solução do COVIDSTRESS coleta dados sobre impacto psicológico e comportamental da COVID-19,
+levando em conta os resultados da coleção de dados, nossa aplicação poderia utilizar-los para demonstrar
+como é preocupante o impacto nas pessoas e assim comprovar a necessidade de auxilio médico.
+
+COMO SÃO ARMAZENADOS?
+Utilizariamos um banco de dados relacional SQL para guardar os dados.
+
+HÁ CONSENTIMENTO DO USUÁRIO?
+Nos dados coletados pela COVIDSTRESS existe um consentimento dos usuários, incluindo filtros/filtragenspara pessoas
+menores de 18 e que por algum motivo não tiveram consentimento; Como utilizariamos os mesmos dados, logo 
+existira um consentimento.
+
+
+COVIDSTRESS JUNE17:
+O seguinte arquivo selecionado representa resultado do questionário disponibilizado pelo COVIDSTRESS até o
+dia 17 do mês de junho de 2020, contendo 126406 participantes. O seguinte arquivo foi feito uma limpeza para
+filtrar menores de 18 anos e pessoas sem consentimento sobre o estudo, ajustamento de alguns dados e filtrados
+por colunas mais importantes.  
+
+
 
 Para executar a análise exploratória basta abrir o arquivo .ipynb em uma IDLE que rode python.
 Caso não execute, será necessário instalar algumas bibliotecas utilizadas para realizar a analise.
