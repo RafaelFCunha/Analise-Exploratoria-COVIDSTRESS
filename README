@@ -24,7 +24,7 @@ dia 17 do mês de junho de 2020, contendo 126406 participantes. O seguinte arqui
 filtrar menores de 18 anos e pessoas sem consentimento sobre o estudo, ajustamento de alguns dados e filtrados
 por colunas mais importantes.  
 
-
+Link para acesso dos dados completos: https://osf.io/z39us/
 
 Para executar a análise exploratória basta abrir o arquivo .ipynb em uma IDLE que rode python.
 Caso não execute, será necessário instalar algumas bibliotecas utilizadas para realizar a analise.
